@@ -1,0 +1,17 @@
+.rectangle{
+  width: 110px;
+  height: 110px;
+  background-color: lightblue;
+  margin: 10px;
+  float: left;
+}
+
+.clear{
+  clear:both;
+  background-color:yellow;
+}
+
+.left{
+  clear:left;
+  background-color:pink;
+}
